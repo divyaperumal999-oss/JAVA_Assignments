@@ -1,6 +1,7 @@
 package Firstpackage;
 
-public class loops
+public class Loopsinjava
+{
 	public static void main(String args[])
 //Sum of 100 numbers 
 	{
